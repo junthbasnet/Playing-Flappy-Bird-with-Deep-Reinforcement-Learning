@@ -107,5 +107,5 @@ The goal of this project was to create a **single neural network agent that is a
 
 <a href="https://www.qries.com/">
         <p align="center">
-  <img src="https://github.com/Junth19/Playing-Pong-with-Deep-Reinforcement-Learning/blob/master/ImagesGIFs/2.PNG" width="250" height="200" border="10"></p> 
+  <img src="https://github.com/Junth19/Playing-Pong-with-Deep-Reinforcement-Learning/blob/master/ImagesGIFs/Pong.gif" width="480" height="330" border="10"></p> 
 </a>
