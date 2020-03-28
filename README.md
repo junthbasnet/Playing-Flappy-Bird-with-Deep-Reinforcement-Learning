@@ -101,7 +101,7 @@ Georg, et al. [Human-level control through deep reinforcement learning](https://
 3. Guest Post: [Demystifying Deep Reinforcement Learning](https://www.intel.ai/demystifying-deep-reinforcement-learning/#gs.1afy66)
 
 # See Next
-The goal of this project was to create a **single neural network agent that is able to successfully learn to play as many of the games as possible**. The network was not provided with any **game-specific information or hand-designed visual features, and was not privy to the internal state of the emulator**; it learned from nothing but the video input, the reward and terminal signals, and the set of possible actions—just as a human player would. Furthermore the `network architecture and all hyperparameters` used for training were similar across FlappyBird <img src="./assets/sprites/redbird-midflap.png" border="10"> and Pong :tennis:.
+The goal of this project was to create a **single neural network agent that is able to successfully learn to play as many of the games as possible**. The network was not provided with any **game-specific information or hand-designed visual features, and was not privy to the internal state of the emulator**; it learned from nothing but the video input, the reward and terminal signals, and the set of possible actions—just as a human player would. Furthermore the `network architecture and all hyperparameters` used for training were similar across FlappyBird <img src="./assets/sprites/redbird-midflap.png"> and Pong :tennis:.
 
 [Playing Pong with Deep Reinforcement Learning](https://github.com/Junth19/Playing-Pong-with-Deep-Reinforcement-Learning)
 
